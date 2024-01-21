@@ -1,8 +1,7 @@
 # valaxy-rtp Test Webhook
 
 
-#cicd test sample1 (if changes made by devloper)
-#cicd test sample1 (if changes made by devloper)
+
 
 
 
