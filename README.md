@@ -1,8 +1,7 @@
-
-# valaxy-rtp Test Webhook
+Test Webhook
 
 test sample
-http://3.238.4.197:8080/cabola/
+
 
 
 
